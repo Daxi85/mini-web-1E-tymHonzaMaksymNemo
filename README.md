@@ -6,3 +6,4 @@
 <p>Maksym:Celý index, propojení css s indexem</p>
 <p>Honza:Celý Css pomáhal spojením indexem s css</p>
 <p>Vymyšlení projektu, README a tabulka v index</p>
+
