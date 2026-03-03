@@ -63,3 +63,24 @@ input:focus, select:focus {
     border-color: #4a90e2;
     box-shadow: 0 0 5px rgba(74,144,226,0.4);
 }
+
+button {
+    padding: 12px 25px;
+    margin-top: 15px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: wait;
+}
+
+button:hover{
+background-color: pink                                                                                                                                   ;
+}
+
+button:active {
+    background-color: black;
+    transform: scale(0.70);
+
+}
