@@ -4,6 +4,11 @@
 <p>-Popis o klubu s deskovými hry</p> <br>
 <h1>Rozdělení práce</h1>
 <p>Maksym:Celý index, propojení css s indexem</p>
-<p>Honza:Celý Css pomáhal spojením indexem s css</p>
-<p>Vymyšlení projektu, README a tabulka v index</p>
-
+<p>Honza:Celý CSS pomáhal spojením indexem s css </p>
+<p>Neo:Vymyšlení projektu, README a tabulka v index</p>
+<h1>Postup práce</h1>
+<p>1:Sdílení repozitáře spolupráci Maxe a Honzy</p>
+<p>2:Max založil Index</p>
+<p>3:Honza založil CSS</p>
+<p>4:Max propojil CSS a Index</p>
+<p>5:Honza udělal disajn,"zhezčil" text a tlačítko</p>
