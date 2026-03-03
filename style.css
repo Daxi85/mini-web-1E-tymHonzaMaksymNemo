@@ -20,20 +20,19 @@ p {
 button {
     padding: 12px 25px;
     margin-top: 15px;
-    background-color: darkblue;
+    background-color: RoyalBlue;
     color: white;
     border: none;
     border-radius: 10px;
     font-size: 16px;
-    cursor: alias;
+    cursor: pointer;
 }
 
-button:hover{
-background-color: white                                                                                                                                   ;
+button:hover {
+    background-color: darkblue;
 }
 
 button:active {
-    background-color: black;
+    background-color: RoyalBlue;
     transform: scale(0.70);
-
 }
