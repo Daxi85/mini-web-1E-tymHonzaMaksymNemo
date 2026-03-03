@@ -12,3 +12,9 @@
 <p>3:Honza založil CSS</p>
 <p>4:Max propojil CSS a Index</p>
 <p>5:Honza udělal disajn,"zhezčil" text a tlačítko</p>
+<p>6:Maxim a Honza dokončili CSS a Index</p>
+<p>7:Neo udělal README</p>
+<h1>Jak projekt spustit</h1>
+<p>1.krok:stáhnout github projekt </p>
+<p>2.krok:otevřít průzkumník souboru</p>
+<p>3.krok:extraktovat vše</p>
