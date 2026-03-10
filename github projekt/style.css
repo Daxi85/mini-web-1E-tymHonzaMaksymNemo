@@ -4,27 +4,43 @@ body {
     background-color: #f2f2f2;
 }
 
-
 h1 {
     color: darkblue;
 }
 
 p {
-    margin-top: 30px;
-    color: 
-        }
+    margin-top: 20px;
+    color: #333;
+}
 
+table {
+    margin-top: 20px;
+    background-color: white;
+}
 
+td {
+    padding: 10px;
+}
 
+fieldset {
+    margin-top: 25px;
+    padding: 15px;
+    background-color: white;
+}
+
+input, select {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
 
 button {
-    padding: 12px 25px;
-    margin-top: 15px;
+    padding: 10px 20px;
+    margin-top: 10px;
     background-color: RoyalBlue;
     color: white;
     border: none;
-    border-radius: 10px;
-    font-size: 16px;
+    border-radius: 8px;
     cursor: pointer;
 }
 
@@ -32,7 +48,8 @@ button:hover {
     background-color: darkblue;
 }
 
-button:active {
-    background-color: RoyalBlue;
-    transform: scale(0.70);
+/* footer */
+footer {
+    margin-top: 30px;
+    color: gray;
 }
