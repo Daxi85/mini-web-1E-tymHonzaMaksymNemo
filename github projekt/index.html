@@ -12,6 +12,18 @@
 </nav>
 <h1>Klub na deskové hry pro 1 ročniky</h1>
   <p>Jsme bezplatný školní klub,<br> a jsme volný <strong>každou</strong> přestávku a do 16:00 po škole</p>
+
+    <p>Počet návštěvníků:</p>
+<p id="counter">0</p>
+
+<script>
+let count = 0;
+function addVisit(){
+  count++;
+  document.getElementById("counter").innerText = count;
+}
+addVisit();
+</script>
      
     <table border="1">
       <tr>
@@ -75,6 +87,7 @@
   </body>
 
 </html>
+
 
 
 
