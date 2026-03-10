@@ -89,11 +89,20 @@ addVisit();
   <footer>
   <p>Authory: Maksym Krivchykov, Hoang Gia Huy, Neo Zdeněk Houdek</p>
 </footer>
+</form>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
+<form action="submit.php" method="POST">
+  <input type="text" name="name" required>
 
+  <div class="cf-turnstile" data-sitekey="YOUR_SITE_KEY"></div>
+
+  <button type="submit">Submit</button>
+</form>
   </body>
 
 </html>
+
 
 
 
